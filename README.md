@@ -125,3 +125,5 @@ Migliori iperparametri trovati: `n_estimators = 400`, `max_depth = 8` (accuratez
 
 ##Dichiarazione su LLM
 è stato utilizzato Claude per piccole correzioni e suggerimenti (ad esempio i suggerimenti futuri, se non quello sull'ampliamento del dataset, così come il reintegro delle variabili G1 e G2). Anche la presentazione è stata generata da Claude, utilizzata come una bozza poi modificata per avere una base estetica piacevole. 
+
+Portfolio page: https://lauranuzzaci-ops.github.io/adabi_ml_studentibocciati/
